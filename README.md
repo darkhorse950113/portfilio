@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/osamajavaid/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/osamajavaid/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/osamajavaid/portfolio?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/darkhorse950013/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/darkhorse950013/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/darkhorse950013/portfolio?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/iosamajavaid?style=social)](https://twitter.com/intent/follow?screen_name=iosamajavaid)
 
   <br />
@@ -14,7 +14,7 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://darkhorse950013.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -37,13 +37,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
+sudo git clone https://github.com/darkhorse950013/portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/osamajavaid/portfolio.git
+git clone https://github.com/darkhorse950013/portfolio.git
 ```
 
 ### Contact

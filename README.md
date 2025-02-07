@@ -10,7 +10,7 @@
   
   <img src="./public/readme-images/moj.png" />
 
-  <h2 align="center">Muhammad Osama Javaid - Personal portfolio</h2>
+  <h2 align="center">Dark horse - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 

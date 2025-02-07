@@ -1,21 +1,25 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Dark horse';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'United States',
+  City: 'Log Angels',
+  Age: '30',
 };
 
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '90%',
   },
   {
     title: 'React Developer',
     level: '91%',
+  },
+  {
+    title: 'Next Developer',
+    level: '99%',
   },
   // {
   //   title: 'Desktop Application Developer',
@@ -23,7 +27,7 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '90%',
   },
   {
     title: 'Technical Blogger',
@@ -56,8 +60,8 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'darkhorse950113@gmail.com',
+  //PHONE: '+923159591822',
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/osamajavaid',

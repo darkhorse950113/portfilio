@@ -21,13 +21,13 @@ export const SKILLS = [
     title: 'Next Developer',
     level: '99%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
   {
     title: 'Backend Developer',
     level: '90%',
+  },
+  {
+    title: 'Unity 3D Professional Developer',
+    level: '75%',
   },
   {
     title: 'Technical Blogger',
@@ -48,8 +48,8 @@ export const TECH_STACK = [
   'TailwindCSS',
   'Ant Design',
   'Material UI',
-  'Next UI',
-  'REST API',
+  'Three.js',
+  'Next UI', 
   'MongoDB',
   'MySQL',
   'Git',
@@ -57,6 +57,9 @@ export const TECH_STACK = [
   'Jira',
   'Figma',
   'Adobe XD',
+  'Unity',
+  'C#',
+  'OpenAI'
 ];
 
 export const CONTACTS = {
@@ -64,8 +67,8 @@ export const CONTACTS = {
   //PHONE: '+923159591822',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/darkhorse950013',
-  // LINKEDIN: 'https://www.linkedin.com/in/darkhorse950013/',
-  // TWITTER: 'https://twitter.com/darkhorse950013',
-  // FACEBOOK: 'https://www.facebook.com/darkhorse950013',
+  GITHUB: 'https://github.com/darkhorse950113',
+  // Alias 'https://www.linkedin.com/in/darkhorse950113/',
+  // TWITTER: 'https://twitter.com/darkhorse950113',
+  // FACEBOOK: 'https://www.facebook.com/darkhorse950113',
 };

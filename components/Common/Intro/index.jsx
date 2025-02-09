@@ -56,7 +56,7 @@ const Intro = () => {
         >
           <FaGithub />
         </Link>
-        <Link
+        {/* <Link
           href={SOCIAL_LINKS.TWITTER}
           target="_blank"
           rel="noreferrer"
@@ -79,7 +79,7 @@ const Intro = () => {
           className=""
         >
           <FaLinkedin />
-        </Link>
+        </Link> */}
       </div>
     </>
   );

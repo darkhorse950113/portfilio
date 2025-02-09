@@ -5,39 +5,39 @@ Date:   Fri Feb 7 21:38:16 2025 +0900
     modify name
 
 [33mcommit 4e5aaaa873cf3881ca9452ab15df85883689d9ab[m[33m ([m[1;31morigin/main[m[33m)[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Wed Nov 22 15:25:36 2023 +0500
 
     new project added
 
 [33mcommit 0a8f968871bc687d8e1cb64475752f8d46f40f0f[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Wed Nov 22 15:23:33 2023 +0500
 
     new stacks added
 
 [33mcommit 2cba5afb889ab62dd0e784019c3bca1ad9d2be16[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Tue Nov 21 11:45:07 2023 +0500
 
     minor changes
 
 [33mcommit 412ad1e6a9a2fecdab1923b040bcc865015e072b[m
 Merge: 26ee527 f78e00d
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Mon Aug 28 22:20:16 2023 +0500
 
     merged haroon code and fixed portfolio section and background section (#13)
 
 [33mcommit f78e00d1240615d8d1afbac6a7cc1dfc216e12b6[m
-Author: osama <iosamajavaid@gmail.com>
+Author: osama <darkhorse@gmail.com>
 Date:   Mon Aug 28 22:17:40 2023 +0500
 
     haroon code merged & i fixed portfolio&backgroun
 
 [33mcommit 61976d4a3285b9ee3139e10284279753af1c1819[m
 Merge: 9bea604 af77294
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Mon Aug 28 21:38:43 2023 +0500
 
     Fixing static data issue in the intro section (#12)
@@ -52,70 +52,70 @@ Date:   Fri Aug 25 01:37:00 2023 +0500
     fixing static data issue in the intro section
 
 [33mcommit 26ee527adade867399ab45d508eb0610ca282a67[m
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Fri Aug 18 00:29:11 2023 +0500
 
     Update README.md
 
 [33mcommit 9bea60470a212166fd4f0541f34ac024da4fe563[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Fri Aug 18 00:25:53 2023 +0500
 
     nav rounded & links added
 
 [33mcommit 0635b71f1aaf51af0d11c06ba7ee21e1fcd145c4[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Thu Aug 10 00:24:14 2023 +0500
 
     deleting graytheme branch
 
 [33mcommit 02f0b2f87d0e6c7179b82494b744201d6e70ae8a[m
 Merge: fcd9b31 905bc63
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Thu Aug 10 00:21:39 2023 +0500
 
     readme updated, gray theme removed (#11)
 
 [33mcommit 905bc631811659b315020f512f4b92617dbae9c7[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Thu Aug 10 00:20:41 2023 +0500
 
     gray theme removed
 
 [33mcommit ff22f24a8f1a35df320dfc3b85be8e0ff07b79d6[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Thu Aug 10 00:09:55 2023 +0500
 
     readme pics fixed
 
 [33mcommit c53ebf3b762218a32e02bc9681d7e6b9ee1800bb[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Thu Aug 10 00:06:11 2023 +0500
 
     readme updated
 
 [33mcommit fcd9b31cd6772bb53147349bcec652d9e84f3564[m
 Merge: 51c1690 0c4ec67
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Sun Aug 6 22:35:47 2023 +0500
 
     skeleton now rounded (#10)
 
 [33mcommit 51c1690d5281cffb5f636fbb87ae6c10aed813b5[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sun Aug 6 22:31:30 2023 +0500
 
     skeleton fixed
 
 [33mcommit 0c4ec671807ef553caaf1cd0c8867d81984ce23e[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sun Aug 6 06:38:01 2023 +0500
 
     skeleton now rounded
 
 [33mcommit f190c62a0f80d44bc69a4081a4e4b479973303be[m
 Merge: 3fddba2 2d75411
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Sun Aug 6 06:36:41 2023 +0500
 
     new fonts, common classes, skeleton redesigned (#9)
@@ -123,33 +123,33 @@ Date:   Sun Aug 6 06:36:41 2023 +0500
     clear for merge
 
 [33mcommit 2d75411acac9aa84f0abc33907ab3380aed167de[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sun Aug 6 06:34:26 2023 +0500
 
     skeleton redesigned
 
 [33mcommit 9beea8f04961a381ce7298c390af17d564d05df2[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sat Aug 5 23:33:31 2023 +0500
 
     new fonts added + added common classes
 
 [33mcommit 3fddba2d882a9f48d7a7e8bba1c095d3267b3de7[m
 Merge: 2b1dab8 89a9d51
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Sat Aug 5 17:33:40 2023 +0500
 
     extra colors removed (#8)
 
 [33mcommit 89a9d515a0edb82c0d8677457be91338e2388ac6[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sat Aug 5 16:07:32 2023 +0500
 
     extra colors removed
 
 [33mcommit 2b1dab8ec347578c698ea8e28a53c05dc17fbfa5[m
 Merge: b810780 edec626
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Sat Aug 5 12:22:35 2023 +0500
 
     theme changed (#7)
@@ -157,106 +157,106 @@ Date:   Sat Aug 5 12:22:35 2023 +0500
     a whole new looks
 
 [33mcommit edec62695eab9c7b5307e15efd7672b067f69652[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sat Aug 5 12:21:57 2023 +0500
 
     corner rounded
 
 [33mcommit ea4fb387353760a9d85af4d1079cab98b4fe86a9[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sat Aug 5 12:16:16 2023 +0500
 
     theme changed
 
 [33mcommit b8107806ae07d36d6a787c24d2586731dc9b181f[m
 Merge: 84a8260 5a96e83
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Sat Aug 5 08:17:01 2023 +0500
 
     optimizing cards and skeleton (#6)
 
 [33mcommit 5a96e831140c17cb7600e25b97f5aef3510f089e[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Sat Aug 5 08:03:40 2023 +0500
 
     optimizing cards and skeleton
 
 [33mcommit 84a8260a42405795b5eab5446c94d615a61a2ce2[m
-Author: osamajavaid <iosamajavaid@gmail.com>
+Author: darkhorse <darkhorse@gmail.com>
 Date:   Thu Aug 3 14:19:59 2023 +0500
 
     optimizing code
 
 [33mcommit 29bb3051d375920d38245697444da22f3355c94f[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Fri Jul 7 15:28:56 2023 +0500
 
     recommendations added
 
 [33mcommit daf551aa78edafbf5c14f3e442380050870c9011[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Fri Jul 7 12:27:47 2023 +0500
 
     card layout added in edu exp
 
 [33mcommit 05310388c3da943180938454ef4c7fba3c9cdcce[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Fri Jul 7 12:12:38 2023 +0500
 
     code refactored
 
 [33mcommit 000976dc558b4b13a8cfb597b5e2ddc9edc6a1ae[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Wed Jul 5 17:28:41 2023 +0500
 
     background page skeleton issue resolved
 
 [33mcommit 11943380bd559000e35e37483168679da0a07da9[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Wed Jul 5 17:10:23 2023 +0500
 
     name changed
 
 [33mcommit de780c1cd3ac79ad54e967406e6f855a711b88bf[m
 Merge: f6bcf3c 4d27d2a
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Wed Jul 5 17:07:47 2023 +0500
 
-    Merge branch 'main' of https://github.com/osamajavaid/resume
+    Merge branch 'main' of https://github.com/darkhorse/resume
 
 [33mcommit f6bcf3c776c2a66b1ec200e31985c033ff2d1c9b[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Wed Jul 5 17:07:00 2023 +0500
 
     code refactored
 
 [33mcommit 4d27d2acbfc4c5085ffc14718db25ff83622474c[m
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Wed Jul 5 16:59:45 2023 +0500
 
     Update README.md
 
 [33mcommit b1e2091b5eb91c4c9e6c87d3d0b4c431163f23a7[m
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Wed Jul 5 16:47:17 2023 +0500
 
     Update README.md
 
 [33mcommit 3b0c90e9bed779e2d3f9f2493015ba11c5f2ce08[m
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Wed Jul 5 16:43:44 2023 +0500
 
     Update README.md
 
 [33mcommit 31938bf055c63c6f2ec9d7ee48a812120d36d530[m
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Wed Jul 5 16:39:34 2023 +0500
 
     Update README.md
 
 [33mcommit dcf6b66e576fa6d1d7cce0c6e1801817d5110641[m
 Merge: 3183c2f db08116
-Author: Osama <100969403+osamajavaid@users.noreply.github.com>
+Author: Osama <100969403+darkhorse@users.noreply.github.com>
 Date:   Wed Jul 5 12:43:12 2023 +0500
 
     Drawer + Card Layout (#5)
@@ -267,7 +267,7 @@ Date:   Wed Jul 5 12:43:12 2023 +0500
     Cards
 
 [33mcommit db08116be03b7474bd6526137f93fafd6c54338b[m
-Author: osamajavaid <18pwcse1638@uetpeshawar.edu.pk>
+Author: darkhorse <18pwcse1638@uetLos Angeles.edu.pk>
 Date:   Wed Jul 5 12:27:48 2023 +0500
 
     dr
